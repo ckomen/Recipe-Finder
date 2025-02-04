@@ -14,7 +14,7 @@ const SearchForm = ({ onSearch }) => {
         type="text"
         value={query}
         onChange={(e) => setQuery(e.target.value)}
-        placeholder="Search by ingredient or meal type"
+        placeholder="Search by ingredient"
       />
       <button type="submit">Search</button>
     </form>

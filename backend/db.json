@@ -1,0 +1,17 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Pasta",
+        "ingredients": ["Tomato", "Basil", "Garlic"],
+        "diet": "vegan"
+      },
+      {
+        "id": 2,
+        "name": "Chicken Salad",
+        "ingredients": ["Chicken", "Lettuce", "Olive Oil"],
+        "diet": "gluten-free"
+      }
+    ]
+  }
+  
